@@ -1,0 +1,11 @@
+{
+  "ROUTING_TABLE_HEADER_INTERFACE": "Schnittstelle",
+  "ROUTING_TABLE_HEADER_METRIC": "Metrik",
+  "ROUTING_TABLE_HEADER_PREFIX": "Präfix",
+  "ROUTING_TABLE_HEADER_TYPE": "Typ",
+  "ROUTING_TABLE_HEADER_VIA": "über",
+
+  "ROUTING_TABLE_EMPTY_HEADER": "Es wurden keine Routen zurückgegeben.",
+  "ROUTING_TABLE_EMPTY_NO_ROUTES": "Wenn eine Route zu Ihrem Netzwerk hinzugefügt wird, erscheint sie automatisch in dieser Liste.",
+  "ROUTING_TABLE_EMPTY_NO_MATCHES": "Keine Route entspricht den angegebenen Suchkriterien."
+}

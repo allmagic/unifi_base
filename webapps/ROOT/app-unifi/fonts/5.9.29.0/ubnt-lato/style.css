@@ -1,0 +1,39 @@
+/**
+ * These styles bridge the gap between the UBNT themes and the lato-font-face package.
+ */
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: url(../lato/fonts/Lato-Hairline.eot);
+  src: local('Lato Hairline'), local('Lato-Hairline'), url(../lato/fonts/Lato-Hairline.woff2) format('woff'), url(../lato/fonts/Lato-Hairline.woff) format('woff'), url(../lato/fonts/Lato-Hairline.ttf) format('truetype'), url(../lato/fonts/Lato-Hairline.svg#Lato) format('svg');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../lato/fonts/Lato-Light.eot);
+  src: local('Lato Light'), local('Lato-Light'), url(../lato/fonts/Lato-Light.woff2) format('woff'), url(../lato/fonts/Lato-Light.woff) format('woff'), url(../lato/fonts/Lato-Light.ttf) format('truetype'), url(../lato/fonts/Lato-Light.svg#Lato) format('svg');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../lato/fonts/Lato-Regular.eot);
+  src: local('Lato Regular'), local('Lato-Regular'), url(../lato/fonts/Lato-Regular.woff2) format('woff'), url(../lato/fonts/Lato-Regular.woff) format('woff'), url(../lato/fonts/Lato-Regular.ttf) format('truetype'), url(../lato/fonts/Lato-Regular.svg#Lato) format('svg');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../lato/fonts/Lato-Bold.eot);
+  src: local('Lato Bold'), local('Lato-Bold'), url(../lato/fonts/Lato-Bold.woff2) format('woff'), url(../lato/fonts/Lato-Bold.woff) format('woff'), url(../lato/fonts/Lato-Bold.ttf) format('truetype'), url(../lato/fonts/Lato-Bold.svg#Lato) format('svg');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: url(../lato/fonts/Lato-Black.eot);
+  src: local('Lato Black'), local('Lato-Black'), url(../lato/fonts/Lato-Black.woff2) format('woff'), url(../lato/fonts/Lato-Black.woff) format('woff'), url(../lato/fonts/Lato-Black.ttf) format('truetype'), url(../lato/fonts/Lato-Black.svg#Lato) format('svg');
+}

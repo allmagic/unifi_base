@@ -1,0 +1,11 @@
+{
+  "STORE_FILTER_PRICE": "Pris",
+  "STORE_FILTER_SORT_BY": "Sortere efter:",
+  "STORE_FILTER_TITLE": "Titel",
+  "STORE_PRICE_LABEL_BETA": "Beta",
+  "STORE_PRICE_LABEL_SALE": "Salg",
+  "STORE_PRICE_LABEL_SOLD_OUT": "Udsolgt",
+  "STORE_VARIANTS_LIST_EMPTY_HEADER": "Ingen produkter fundet",
+  "STORE_VARIANTS_LIST_EMPTY_NO_MATCHES": "Ingen produkter matcher denne søgekriterier.",
+  "STORE_VARIANTS_LIST_EMPTY_NO_VARIANTS": "Der er ingen produkter tilgængelig."
+}

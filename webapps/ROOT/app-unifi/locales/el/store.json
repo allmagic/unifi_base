@@ -1,0 +1,11 @@
+{
+  "STORE_FILTER_PRICE": "Τιμή",
+  "STORE_FILTER_SORT_BY": "Ταξινόμηση κατά:",
+  "STORE_FILTER_TITLE": "Τίτλος",
+  "STORE_PRICE_LABEL_BETA": "Δοκιμαστική(beta)",
+  "STORE_PRICE_LABEL_SALE": "Πώληση",
+  "STORE_PRICE_LABEL_SOLD_OUT": "Εξαντλημένα",
+  "STORE_VARIANTS_LIST_EMPTY_HEADER": "Δεν βρέθηκαν προϊόντα",
+  "STORE_VARIANTS_LIST_EMPTY_NO_MATCHES": "Δεν βρέθηκαν προϊόντα που να ταιριάζουν με τα κριτήρια αναζήτησης.",
+  "STORE_VARIANTS_LIST_EMPTY_NO_VARIANTS": "Δεν υπάρχουν διαθέσιμα προϊόντα."
+}

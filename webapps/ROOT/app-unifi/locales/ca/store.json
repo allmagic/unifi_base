@@ -1,0 +1,11 @@
+{
+  "STORE_FILTER_PRICE": "Preu",
+  "STORE_FILTER_SORT_BY": "Ordenar per:",
+  "STORE_FILTER_TITLE": "Producte",
+  "STORE_PRICE_LABEL_BETA": "Beta",
+  "STORE_PRICE_LABEL_SALE": "Oferta",
+  "STORE_PRICE_LABEL_SOLD_OUT": "Esgotat",
+  "STORE_VARIANTS_LIST_EMPTY_HEADER": "No s'ha trobat cap producte",
+  "STORE_VARIANTS_LIST_EMPTY_NO_MATCHES": "No s'ha trobat cap producte amb aquest criteri de cerca.",
+  "STORE_VARIANTS_LIST_EMPTY_NO_VARIANTS": "No hi ha cap producte disponible."
+}

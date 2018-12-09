@@ -1,0 +1,35 @@
+<urlrewrite>
+    <rule>
+        <from>^/verify$</from>
+        <to last="true" type="temporary-redirect" qsappend="true">/manage/account/verify?r=1</to>
+    </rule>
+    <rule>
+        <from>^/sso_login/(.*)$</from>
+        <to last="true" type="temporary-redirect">/manage/sso_login/$1</to>
+    </rule>
+    <rule>
+        <from>^/manage/hotspot.*$</from>
+        <set type="response-header" name="X-Frame-Options">SAMEORIGIN</set>
+        <to last="true">/app-unifi/index.hotspot.html</to>
+    </rule>
+    <rule>
+        <from>^/manage/wizard/.*$</from>
+        <set type="response-header" name="X-Frame-Options">SAMEORIGIN</set>
+        <to last="true">/app-unifi/index.wizard.html</to>
+    </rule>
+    <rule>
+        <from>^/manage/oauth[.]html$</from>
+        <set type="response-header" name="X-Frame-Options">SAMEORIGIN</set>
+        <to last="true">/app-unifi/oauth.html</to>
+    </rule>
+    <rule>
+        <from>^/manage/overview.*$</from>
+        <set type="response-header" name="X-Frame-Options">SAMEORIGIN</set>
+        <to last="true">/app-unifi/index.overview.html</to>
+    </rule>
+    <rule>
+        <from>^/manage/.*$</from>
+        <set type="response-header" name="X-Frame-Options">SAMEORIGIN</set>
+        <to>/app-unifi/index.html</to>
+    </rule>
+</urlrewrite>

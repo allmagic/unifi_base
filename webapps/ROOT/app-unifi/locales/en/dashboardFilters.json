@@ -1,0 +1,13 @@
+{
+  "DASHBOARD_FILTER_DEFINITIONS_DEVICES_UAP": "Filter by Access Point",
+
+  "DASHBOARD_FILTER_DEVICES_TITLE_LABEL": "Filter:",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_TITLE_VALUE": "{count, plural, 0{All Devices} one{# Device} other{# Devices}}",
+  "DASHBOARD_FILTER_DEVICES_UAP_TITLE_VALUE": "{count, plural, 0{All Access Points} one{# Access Point} other{# Access Points}}",
+  "DASHBOARD_FILTER_DEVICES_USW_TITLE_VALUE": "{count, plural, 0{All Switches} one{# Switch} other{# Switches}}",
+
+  "DASHBOARD_FILTER_DEVICES_DEVICE_SELECT_ALL": "All Devices",
+  "DASHBOARD_FILTER_DEVICES_UAP_SELECT_ALL": "All Access Points",
+  "DASHBOARD_FILTER_DEVICES_USW_SELECT_ALL": "All Switches"
+}

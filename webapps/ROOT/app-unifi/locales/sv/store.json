@@ -1,0 +1,11 @@
+{
+  "STORE_FILTER_PRICE": "Pris",
+  "STORE_FILTER_SORT_BY": "Sortera efter:",
+  "STORE_FILTER_TITLE": "Titel",
+  "STORE_PRICE_LABEL_BETA": "Beta",
+  "STORE_PRICE_LABEL_SALE": "Rea",
+  "STORE_PRICE_LABEL_SOLD_OUT": "Utsåld",
+  "STORE_VARIANTS_LIST_EMPTY_HEADER": "Inga produkter hittades",
+  "STORE_VARIANTS_LIST_EMPTY_NO_MATCHES": "Inga produkter matchade sökkriteriet.",
+  "STORE_VARIANTS_LIST_EMPTY_NO_VARIANTS": "Det finns inga tillgängliga produkter."
+}

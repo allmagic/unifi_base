@@ -1,0 +1,11 @@
+{
+  "STORE_FILTER_PRICE": "Cena",
+  "STORE_FILTER_SORT_BY": "Sortuj według:",
+  "STORE_FILTER_TITLE": "Tytuł",
+  "STORE_PRICE_LABEL_BETA": "Beta",
+  "STORE_PRICE_LABEL_SALE": "Sprzedaż",
+  "STORE_PRICE_LABEL_SOLD_OUT": "Wyprzedany",
+  "STORE_VARIANTS_LIST_EMPTY_HEADER": "Nie znaleziono produktów",
+  "STORE_VARIANTS_LIST_EMPTY_NO_MATCHES": "Nie znaleziono produktów spełniających podane kryteria",
+  "STORE_VARIANTS_LIST_EMPTY_NO_VARIANTS": "Brak produktów."
+}

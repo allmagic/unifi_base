@@ -1,0 +1,17 @@
+{
+  "INSIGHTS_NAV_DYNAMIC_DNS": "Dynamisk DNS",
+  "INSIGHTS_NAV_KNOWN_CLIENTS": "Kända klienter",
+  "INSIGHTS_NAV_NEIGHBORING_ACCESS_POINTS": "Närliggande accesspunkter",
+  "INSIGHTS_NAV_PAST_CONNECTIONS": "Tidigare anslutningar",
+  "INSIGHTS_NAV_PAST_GUEST_AUTHORIZATIONS": "Tidigare gästaccess",
+  "INSIGHTS_NAV_PORT_FORWARD_STATS": "Port forward statistik",
+  "INSIGHTS_NAV_STREAMS": "AC-EDU strömmar",
+  "INSIGHTS_NAV_SWITCH_STATS": "Switchstatistik",
+  "INSIGHTS_NAV_REMOTE_USER_VPN": "Fjärranvändare VPN",
+  "INSIGHTS_NAV_STATIC_ROUTING": "Statisk routing",
+  "INSIGHTS_NAV_LOGS": "Kontroller-logmeddelanden",
+
+  "SWITCH_STATS_VIEW_OVERVIEW": "Överblick",
+  "SWITCH_STATS_VIEW_POE": "PoE",
+  "SWITCH_STATS_VIEW_COUNTERS": "Räknare"
+}

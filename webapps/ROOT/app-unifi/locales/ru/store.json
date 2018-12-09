@@ -1,0 +1,11 @@
+{
+  "STORE_FILTER_PRICE": "Цена",
+  "STORE_FILTER_SORT_BY": "Упорядочить по:",
+  "STORE_FILTER_TITLE": "Заголовок",
+  "STORE_PRICE_LABEL_BETA": "Бета",
+  "STORE_PRICE_LABEL_SALE": "Распродажа",
+  "STORE_PRICE_LABEL_SOLD_OUT": "Продано",
+  "STORE_VARIANTS_LIST_EMPTY_HEADER": "Продукты отсутствуют",
+  "STORE_VARIANTS_LIST_EMPTY_NO_MATCHES": "Нет продуктов, соответствующих заданному условию.",
+  "STORE_VARIANTS_LIST_EMPTY_NO_VARIANTS": "Нет доступных продуктов."
+}

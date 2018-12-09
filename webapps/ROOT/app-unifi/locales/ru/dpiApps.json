@@ -1,0 +1,11 @@
+{
+  "DPI_APPS_TABLE_HEADER_NAME": "Название приложения",
+  "DPI_APPS_TABLE_HEADER_USER_COUNT": "Активные Пользователи",
+  "DPI_APPS_TABLE_HEADER_UP": "Отдано",
+  "DPI_APPS_TABLE_HEADER_DOWN": "Скачано",
+
+  "DPI_APPS_TABLE_UNKNOWN_APP": "Неизвестно",
+
+  "DPI_APPS_TABLE_EMPTY_HEADER": "Нет данных DPI",
+  "DPI_APPS_TABLE_EMPTY_NO_DATA": "Нет данных DPI для выбранных категорий."
+}

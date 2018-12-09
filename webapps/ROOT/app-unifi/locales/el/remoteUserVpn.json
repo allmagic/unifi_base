@@ -1,0 +1,22 @@
+{
+  "REMOTE_USER_VPN_TABLE_HEADER_INTERFACE": "Διεπαφή",
+  "REMOTE_USER_VPN_TABLE_HEADER_REMOTE_IP": "Απομακρυσμένο IP",
+  "REMOTE_USER_VPN_TABLE_HEADER_USER": "Χρήστης",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_PKTS": "Κατερχόμενα pkts",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_PKTS": "Ανερχόμενα pkts",
+  "REMOTE_USER_VPN_TABLE_HEADER_DOWN_BYTES": "Κατεβασμένα bytes",
+  "REMOTE_USER_VPN_TABLE_HEADER_UP_BYTES": "Ανερχόμενα bytes",
+  "REMOTE_USER_VPN_TABLE_HEADER_UPTIME": "Χρόνος λειτουργίας",
+  "REMOTE_USER_VPN_TABLE_HEADER_ACTIONS": "Ενέργειες",
+
+  "REMOTE_USER_VPN_TABLE_ACTION_TERMINATE": "Τερματισμός",
+
+  "REMOTE_USER_VPN_TABLE_EMPTY_HEADER": "Δεν βρέθηκε τρέχων απομακρυσμένος χρήστης VPN",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_REMOTE_USER_VPN": "Αυτή τη στιγμή δεν υπάρχουν ενεργές συνεδρίες απομακρυσμένου χρήστη VPN.",
+  "REMOTE_USER_VPN_TABLE_EMPTY_NO_MATCHES": "Δεν υπάρχουν συνεδρίες απομακρυσμένου χρήστη VPN με αυτά τα κριτήρια αναζήτησης.",
+  
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_TITLE": "Παρακαλώ επιβεβαιώστε",
+  "REMOTE_USER_VPN_TERMINATE_CONFIRM_MESSAGE": "Είστε σίγουροι ότι θέλετε να τερματίσετε αυτήν την σύνδεση απομακρυσμένου χρήστη VPN;",
+  "REMOTE_USER_VPN_TERMINATE_SUCCESS": "Η σύνδεση τερματίστηκε",
+  "REMOTE_USER_VPN_TERMINATE_ERROR": "Σφάλμα κατά τον τερματισμό της σύνδεσης"
+}

@@ -1,0 +1,11 @@
+{
+  "STORE_FILTER_PRICE": "Bedel",
+  "STORE_FILTER_SORT_BY": "Sırala:",
+  "STORE_FILTER_TITLE": "Başlık",
+  "STORE_PRICE_LABEL_BETA": "Beta",
+  "STORE_PRICE_LABEL_SALE": "Satılık",
+  "STORE_PRICE_LABEL_SOLD_OUT": "Satıldı",
+  "STORE_VARIANTS_LIST_EMPTY_HEADER": "Ürün bulunamadı",
+  "STORE_VARIANTS_LIST_EMPTY_NO_MATCHES": "Arama ölçütlerine uygun ürün bulunamadı.",
+  "STORE_VARIANTS_LIST_EMPTY_NO_VARIANTS": "Şu an için hiç bir ürün yok."
+}

@@ -1,0 +1,11 @@
+{
+  "STORE_FILTER_PRICE": "Cena",
+  "STORE_FILTER_SORT_BY": "Seřadit podle:",
+  "STORE_FILTER_TITLE": "Název",
+  "STORE_PRICE_LABEL_BETA": "Beta",
+  "STORE_PRICE_LABEL_SALE": "Výprodej",
+  "STORE_PRICE_LABEL_SOLD_OUT": "Vyprodáno",
+  "STORE_VARIANTS_LIST_EMPTY_HEADER": "Nenalezeno žádné zboží",
+  "STORE_VARIANTS_LIST_EMPTY_NO_MATCHES": "Žádné zboží neodpovídá hledaným kritériím.",
+  "STORE_VARIANTS_LIST_EMPTY_NO_VARIANTS": "Není dostupné žádné zboží."
+}

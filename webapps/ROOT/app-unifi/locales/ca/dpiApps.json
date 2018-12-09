@@ -1,0 +1,11 @@
+{
+  "DPI_APPS_TABLE_HEADER_NAME": "Nom d'aplicació",
+  "DPI_APPS_TABLE_HEADER_USER_COUNT": "Usuaris actius",
+  "DPI_APPS_TABLE_HEADER_UP": "Pujada",
+  "DPI_APPS_TABLE_HEADER_DOWN": "Baixada",
+
+  "DPI_APPS_TABLE_UNKNOWN_APP": "Desconegut",
+
+  "DPI_APPS_TABLE_EMPTY_HEADER": "No hi ha informació DPI",
+  "DPI_APPS_TABLE_EMPTY_NO_DATA": "No existeix cap informació DPI per a les categories seleccionades."
+}

@@ -1,0 +1,98 @@
+{
+  "CLIENT_TABLE_HEADER_NAME": "Nazwa",
+  "CLIENT_TABLE_HEADER_HOSTNAME": "Nazwa hosta",
+  "CLIENT_TABLE_HEADER_MAC_ADDRESS": "Adres MAC",
+  "CLIENT_TABLE_HEADER_IP": "Adres IP",
+  "CLIENT_TABLE_HEADER_8021X_IDENTITY": "Tożsamość 802.1X",
+  "CLIENT_TABLE_HEADER_8021X_VLAN": "802.1X VLAN",
+  "CLIENT_TABLE_HEADER_STATUS": "Status",
+  "CLIENT_TABLE_HEADER_USER_GROUP": "Grupa użytkowników",
+  "CLIENT_TABLE_HEADER_CONNECTION": "Połączenie",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRED": "Sieć",
+  "CLIENT_TABLE_HEADER_CONNECTION_WIRELESS": "WLAN",
+  "CLIENT_TABLE_HEADER_AP_PORT": "AP/Port",
+  "CLIENT_TABLE_HEADER_CHANNEL": "Kanał",
+  "CLIENT_TABLE_HEADER_PHY_MODE": "Tryb PHY",
+  "CLIENT_TABLE_HEADER_FT": "FT",
+  "CLIENT_TABLE_HEADER_SIGNAL": "Sygnał",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_DOWN": "Pobieranie międzysieciowe",
+  "CLIENT_TABLE_HEADER_INTER_NETWORK_UP": "Wysyłanie międzysieciowe",
+  "CLIENT_TABLE_HEADER_ACTIVITY_DOWN": "Aktywność pobierania",
+  "CLIENT_TABLE_HEADER_ACTIVITY_UP": "Aktywność wysyłania",
+  "CLIENT_TABLE_HEADER_TX_RATE": "TX Rate",
+  "CLIENT_TABLE_HEADER_RX_RATE": "RX Rate",
+  "CLIENT_TABLE_HEADER_ACTIVITY": "Aktywność",
+  "CLIENT_TABLE_HEADER_UPTIME": "Czas dostępności",
+  "CLIENT_TABLE_HEADER_DEVICE_VENDOR": "Producent urządzenia",
+  "CLIENT_TABLE_HEADER_DEVICE_CAT": "Typ urządzenia",
+  "CLIENT_TABLE_HEADER_DEVICE_ID": "Kategoria urządzeń",
+  "CLIENT_TABLE_HEADER_OS_NAME": "System operacyjny",
+  "CLIENT_TABLE_HEADER_WIFI_SATISFACTION": "Zadowolenie z WiFi",
+  "CLIENT_TABLE_HEADER_ACTIONS": "Akcje",
+
+  "CLIENT_TABLE_TOOLTIP_FT": "Szybkie przełączenie BSS",
+
+  "CLIENT_TABLE_EMPTY_HEADER": "Nie znaleziono użytkowników",
+  "CLIENT_TABLE_EMPTY_NO_CLIENTS": "Wykryci użytkownicy pojawią się automatycznie na tej liście.",
+  "CLIENT_TABLE_EMPTY_NO_MATCHES": "Żaden użytkownik nie pasuje do kryteriów wyszukiwania.",
+
+  "CLIENT_FILTER_TITLE_ACTIVE": "Aktywne",
+  "CLIENT_ACTIVE_FILTER_ALL": "Wszyscy",
+  "CLIENT_ACTIVE_FILTER_TRUE": "Aktywni",
+
+  "CLIENT_FILTER_TITLE_WIRED": "Połączenie",
+  "CLIENT_WIRED_FILTER_ALL": "Wszyscy",
+  "CLIENT_WIRED_FILTER_FALSE": "Bezprzewodowi",
+  "CLIENT_WIRED_FILTER_TRUE": "Przewodowi",
+
+  "CLIENT_FILTER_TITLE_GUEST": "Typ użytkownika",
+  "CLIENT_GUEST_FILTER_ALL": "Wszyscy",
+  "CLIENT_GUEST_FILTER_FALSE": "Użytkownicy",
+  "CLIENT_GUEST_FILTER_TRUE": "Goście",
+
+  "CLIENT_FILTER_TITLE_RADIO": "Typ radia",
+  "CLIENT_RADIO_TYPE_FILTER_ALL": "Wszystkie",
+  "CLIENT_RADIO_TYPE_FILTER_NG": "2G",
+  "CLIENT_RADIO_TYPE_FILTER_NA": "5G",
+
+  "CLIENT_WIRED_NETWORK_FILTER_LABEL": "Sieć",
+  "CLIENT_WIRELESS_AP_FILTER_LABEL": "AP",
+
+  "CLIENT_TABLE_STATUS_AUTHORIZED": "Zautoryzowany",
+  "CLIENT_TABLE_STATUS_PENDING": "Oczekujący",
+
+  "CLIENT_LIST_ACTIONS_ALL_CONFIGURED_CLIENTS": "Wszyscy skonfigurowani klienci",
+  "CLIENT_LIST_ACTIONS_ADD_CLIENT": "Dodaj Klienta",
+
+  "CLIENT_ADD_TITLE": "Dodaj Klienta",
+  "CLIENT_ADD_EDIT_TITLE": "Edycja klienta",
+  "CLIENT_ADD_LIST_TITLE": "Klienci z oczekującymi zmianami",
+
+  "CLIENT_ADD_LABEL_MAC": "Adres MAC",
+  "CLIENT_ADD_LABEL_ALIAS": "Alias",
+  "CLIENT_ADD_LABEL_USER_GROUP": "Grupa użytkowników",
+  "CLIENT_ADD_LABEL_FIXED_IP": "Stały adres IP",
+  "CLIENT_ADD_LABEL_NETWORK": "Sieć",
+  "CLIENT_ADD_LABEL_IP_ADDRESS": "Adres IP",
+
+  "CLIENT_ADD_IP_ALREADY_IN_LIST_ERROR": "Ten adres IP został już dodany.",
+  "CLIENT_ADD_MAC_ALREADY_IN_LIST_ERROR": "Ten adres MAC został już dodany.",
+  "CLIENT_ADD_MAC_ALREADY_USED_ERROR": "Ten adres MAC został już użyty.",
+  "CLIENT_ADD_MAC_MULTICAST_ERROR": "Nie można dodać adresu MAC multicast",
+  "CLIENT_ADD_MAC_BROADCAST_ERROR": "Nie można dodać adresu MAC broadcast",
+
+  "CLIENT_ADD_BUTTON_ADD_CLIENT": "Dodaj klienta",
+
+  "CLIENT_ADD_TABLE_HEADER_MAC": "Adres MAC",
+  "CLIENT_ADD_TABLE_HEADER_ALIAS": "Alias",
+  "CLIENT_ADD_TABLE_HEADER_USER_GROUP": "Grupa użytkowników",
+  "CLIENT_ADD_TABLE_HEADER_NETWORK": "Sieć",
+  "CLIENT_ADD_TABLE_HEADER_IP_ADDRESS": "Adres IP",
+  "CLIENT_ADD_TABLE_HEADER_ACTIONS": "Akcje",
+
+  "CLIENT_ADD_DISCARD_CONFIRM_TITLE": "{count, plural, one {Odrzuć 1 klienta} few {Odrzuć # klientów} many {Odrzuć # klientów} other {Odrzuć # klientów}}?",
+  "CLIENT_ADD_DISCARD_CONFIRM_MESSAGE": "{count, plural, one {Czy na pewno chcesz odrzucić 1 klienta dodanego już do listy?} few {Czy na pewno chcesz odrzucić # klientów dodanych już do listy?} many {Czy na pewno chcesz odrzucić # klientów dodanych już do listy?} other {Czy na pewno chcesz odrzucić # klientów dodanych już do listy?}}",
+
+  "CLIENT_COLUMNS_PRESET_DEFAULT": "Domyślne",
+  "CLIENT_COLUMNS_PRESET_ALL": "Wszystkie kolumny"
+}

@@ -1,0 +1,37 @@
+{
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ACTIONS": "Aktionen",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BANDWIDTH": "BW [MHz]",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_BSSID": "BSSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_CHANNEL": "Kanal",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ESSID": "Name/SSID",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LAST_SEEN": "Zuletzt gesehen",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_LOCATION": "Standort",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_MANUFACTURER": "Hersteller",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_ROGUE": "Gefährlich",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SECURITY": "Sicherheit",
+  "NEIGHBORING_ACCESS_POINT_TABLE_HEADER_SIGNAL": "Signal",
+
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_HEADER": "Es wurden keine benachbarten Access Points (AP´s) gefunden.",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_APS": "Es wurden noch keine Access Points (AP´s) gefunden",
+  "NEIGHBORING_ACCESS_POINT_TABLE_EMPTY_NO_MATCHES": "Keine Access Points (AP´s) entsprechen den angegebenen Suchkriterien.",
+
+  "NEIGHBORING_ACCESS_POINT_TOOLTIP_ROGUE": "Dieser AP sendet dieselbe SSID wie eine Ihrer Zonen. Dies könnte ein Angriff auf Ihr Netzwerk bzw. Ihre Benutzer sein, Bei dem ein Angreifer versucht, Ihre SSID nachzuahmen. Benutzer könnten ungewollt eine Verbindung zu diesem AP anstelle Ihres eigenen Netzwerks herstellen. Es wird deswegen dringend empfohlen, dieses Problem näher zu untersuchen.",
+
+  "NEIGHBORING_ACCESS_POINT_NEAR": "In der Nähe vom AP {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_NEAREST": "Nächster AP {{ap}}",
+  "NEIGHBORING_ACCESS_POINT_AD_HOC": "Ad-Hoc",
+
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_ALL": "Alle",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NA": "5 GHz",
+  "NEIGHBORING_ACCESS_POINT_RADIO_TYPE_FILTER_NG": "2,4 GHz",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN": "Markiert als bekannt",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN": "Entferne von der Bekannt-Liste",
+
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_TITLE": "Markiert Access Points (AP´s) als bekannt",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_CONFIRM_MESSAGE": "Sind Sie sicher, dass sie den Access Point (AP) \"{{essid}}\" als bekannt markieren möchten?",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_SUCCESS": "Der Access Point (AP) \"{{essid}}\" wurde markiert als bekannt.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_MARK_AS_KNOWN_ERROR": "Es gab einen Fehler beim markieren vom Access Point (AP) \"{{essid}}\" als bekannt.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_SUCCESS": "Der Access Point (AP) \"{{essid}}\" wurde von der Bekannt-Liste entfernt.",
+  "NEIGHBORING_ACCESS_POINT_ACTIONS_REMOVE_FROM_KNOWN_ERROR": "Es gab einen Fehler beim entfernen vom Access Point (AP) \"{{essid}}\" von der Bekannt-Liste."
+}
